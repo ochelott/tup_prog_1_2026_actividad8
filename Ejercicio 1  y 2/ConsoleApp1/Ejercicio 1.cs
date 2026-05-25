@@ -57,8 +57,8 @@ namespace ConsoleApp1
                             opcion = -1;
                             break;
                     }
-                    #endregion
-                    #region Salir o continuar
+                    
+                   
                 } while (opcion != -1);
                 Console.WriteLine("Presionar una tecla para finalizar");
                 Console.ReadKey();
